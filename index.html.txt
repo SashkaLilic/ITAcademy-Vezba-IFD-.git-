@@ -5,6 +5,3 @@
 <li style="color:red">HTML</li>
 <li style="color:green">CSS</li>
 <li style="color:brown">JavaScript</li>
-
-<p>Provera gita</p>
-<p>Provera gita </p>
